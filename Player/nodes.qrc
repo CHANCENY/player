@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/n">
+        <file>nodes/itunes.png</file>
+        <file>nodes/music (1).png</file>
+        <file>nodes/music.png</file>
+        <file>nodes/musical-note (1).png</file>
+        <file>nodes/musical-note.png</file>
+        <file>nodes/music-note.png</file>
+        <file>nodes/music-notes.png</file>
+        <file>nodes/spotify.png</file>
+    </qresource>
+</RCC>

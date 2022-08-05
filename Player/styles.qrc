@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/loadStyles">
+        <file>themes/Amoled.txt</file>
+        <file>themes/Aqua.txt</file>
+        <file>themes/Buttons.txt</file>
+        <file>themes/darkorange.txt</file>
+        <file>themes/Elegantdark.txt</file>
+        <file>themes/MacOs.txt</file>
+        <file>themes/ManjaroMix.txt</file>
+        <file>themes/materialdark.txt</file>
+        <file>themes/ubuntu.txt</file>
+    </qresource>
+</RCC>

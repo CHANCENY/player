@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/ic">
+        <file>iconsFolder/next.png</file>
+        <file>iconsFolder/pause.png</file>
+        <file>iconsFolder/play.png</file>
+        <file>iconsFolder/previous.png</file>
+        <file>iconsFolder/repeat.png</file>
+        <file>iconsFolder/add-song-interface-symbol.png</file>
+        <file>iconsFolder/close.png</file>
+        <file>iconsFolder/cross.png</file>
+        <file>iconsFolder/music (2).png</file>
+        <file>iconsFolder/playlist.png</file>
+        <file>iconsFolder/repeat all(1).png</file>
+        <file>iconsFolder/repeatone.png</file>
+        <file>iconsFolder/stop-button.png</file>
+        <file>iconsFolder/sound.png</file>
+        <file>iconsFolder/sound-waves.png</file>
+        <file>iconsFolder/check.png</file>
+    </qresource>
+</RCC>
